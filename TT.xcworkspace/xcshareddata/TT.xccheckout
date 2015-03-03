@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F36104FE-0DD4-44BE-9F73-31BDBBAA3540</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26E2E070681475D76DE15E4F062A6473EE8749B3</key>
+		<string>https://bitbucket.org/ZU3CO/tt.git</string>
+		<key>3CC2EC541CC086D59C4AC803DC6D60664B47234F</key>
+		<string>https://bitbucket.org/ZU3CO/wtfgame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TT.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26E2E070681475D76DE15E4F062A6473EE8749B3</key>
+		<string>..</string>
+		<key>3CC2EC541CC086D59C4AC803DC6D60664B47234F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/ZU3CO/tt.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26E2E070681475D76DE15E4F062A6473EE8749B3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3CC2EC541CC086D59C4AC803DC6D60664B47234F</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26E2E070681475D76DE15E4F062A6473EE8749B3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
